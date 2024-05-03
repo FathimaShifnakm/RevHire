@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="253119a6-da07-47a4-a32b-d93fffa1c381" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/ApplicatoinDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/EmployerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/JobDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/JobSeekerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/ApplicationDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/EmployerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/JobDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/JobSeekerDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/JobApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/JobSeeker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/EmployerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/JobSeekerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/JobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fqiL0x4haXEz0SpoFeSLasg3B8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RevHire-JobPortal [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.1.jre11.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Revature-IT/Desktop/RevHire-JobPortal/RevHire-JobPortal/src/main/java/com/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="253119a6-da07-47a4-a32b-d93fffa1c381" name="Changes" comment="" />
+      <created>1714534951394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714534951394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.microsoft.sqlserver.jdbc.SQLServerException" package="com.microsoft.sqlserver.jdbc" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
