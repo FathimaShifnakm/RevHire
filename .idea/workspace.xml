@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253119a6-da07-47a4-a32b-d93fffa1c381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/ApplicatoinDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/EmployerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/JobDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/JobSeekerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/ApplicationDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/EmployerDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/JobDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/dao/impl/JobSeekerDaoImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/JobApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/model/JobSeeker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/ApplicationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/EmployerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/JobSeekerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/service/JobService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jobportal/util/DatabaseUtil.java" afterDir="false" />
+    <list default="true" id="253119a6-da07-47a4-a32b-d93fffa1c381" name="Changes" comment="Added functionalities">
       <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +57,20 @@
       <option name="presentableId" value="Default" />
       <updated>1714534951394</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added functionalities">
+      <option name="closed" value="true" />
+      <created>1714722061498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722061498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added functionalities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functionalities" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
